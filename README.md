@@ -28,9 +28,14 @@ Transformers & Torch – Model loading and inference
   
 
 🧪 Example Questions
+What is this health insurance policy about?
 
-What is the leave policy?
+Who is eligible to be covered under this policy?
 
-What are the working hours mentioned?
+What does “Sum Insured” mean in this policy?
+
+What is the policy period?
+
+What is meant by “Hospitalisation”?
 
 Is work from home allowed?
