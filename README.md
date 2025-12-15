@@ -25,3 +25,12 @@ LangChain – Text splitting and LLM orchestration
 PyPDF – PDF text extraction
 
 Transformers & Torch – Model loading and inference
+  
+
+🧪 Example Questions
+
+What is the leave policy?
+
+What are the working hours mentioned?
+
+Is work from home allowed?
